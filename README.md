@@ -24,15 +24,15 @@
 ---
 # Ejemplo de Uso
 
-![[Pasted image 20250110082207.png]]
+![Pasted image 20250110082207.png](https://github.com/JoseLMurillo/challengeliteralura/blob/main/Imagenes/Pasted%20image%2020250110082207.png)
 
-![[Pasted image 20250110082337.png]]
+![Pasted image 20250110082337.png](https://github.com/JoseLMurillo/challengeliteralura/blob/main/Imagenes/Pasted%20image%2020250110082337.png)
 
-![[Pasted image 20250110082402.png]]
+![Pasted image 20250110082402.png](https://github.com/JoseLMurillo/challengeliteralura/blob/main/Imagenes/Pasted%20image%2020250110082402.png)
 
-![[Pasted image 20250110082433.png]]
+![Pasted image 20250110082433.png](https://github.com/JoseLMurillo/challengeliteralura/blob/main/Imagenes/Pasted%20image%2020250110082433.png)
 
-![[Pasted image 20250110082639.png]]
+![Pasted image 20250110082639.png](https://github.com/JoseLMurillo/challengeliteralura/blob/main/Imagenes/Pasted%20image%2020250110082639.png)
 
 ---
 # Clase `Menu`
